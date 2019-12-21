@@ -1,4 +1,4 @@
-- menu_name: "Networking"
+- menu_name: "Credits"
 
 - name: "Icons by Daniel Bruce"
   url: "http://entypo.com/"
@@ -19,3 +19,13 @@
   url: "http://srobbin.com/jquery-plugins/backstretch/"
   class: "sitemap-link"
   title: "Using Backstretch by Scott Robbin"
+
+- name: "Anachronistic Tech"
+  url: "https://anachronistic-tech.co.uk/"
+  class: "sitemap-link"
+  title: "Anachronistic Tech"
+
+- name: "Jorel's Blog"
+  url: "https://www.jorel.dev/blog/"
+  class: "sitemap-link"
+  title: "Jorel's Blog"
