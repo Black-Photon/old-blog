@@ -5,8 +5,6 @@ title:  "Personality"
 teaser: "I had an idea for a way to embody parts of my personality into a short story"
 categories:
     - ideas
-tags:
-    - ideas
 header: no
 ---
 
