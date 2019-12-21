@@ -4,12 +4,12 @@ subheadline: "Stories"
 title: "The Rising"
 teaser: "In some spare time, I've been working on writing, and here are some of the results."
 header:
-    image_fullwidth: "time_travel.jpg"
-    caption: Image by Shutterstock
-    caption_url: "https://www.shutterstock.com"
+    image_fullwidth: "rising.png"
+    caption: Image by Joseph
+    caption_url: "https://www.worldanvil.com/w/eylaisia-black-photon"
 image:
-    thumb:  time_travel.jpg
-    homepage: time_travel.jpg
+    thumb:  rising.png
+    homepage: rising.png
 categories:
     - fiction
     - stories
