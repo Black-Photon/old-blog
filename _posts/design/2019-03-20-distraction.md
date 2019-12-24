@@ -7,7 +7,6 @@ header: no
 categories:
     - ideas
 comments: true
-show_meta: false
 ---
 
 I’ve recently thought, you could be in a fight to the death, but if the world is suddenly about to explode, they’d work together to stop it.

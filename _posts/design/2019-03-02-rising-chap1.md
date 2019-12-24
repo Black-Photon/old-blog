@@ -11,10 +11,8 @@ image:
     thumb:  rising.png
     homepage: rising.png
 categories:
-    - fiction
     - stories
 comments: true
-show_meta: false
 ---
 *This is a story I started working on and thought I’d publish the first chapter here as it’ll likely never be finished.*
 
