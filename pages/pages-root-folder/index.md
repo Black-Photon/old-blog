@@ -15,11 +15,11 @@ widget1:
 widget2:
   title: "Who am I?"
   url: 'https://black-photon.github.io/info/'
-  text: 'My name is Joseph Keane, and I'm a programmer in the UK, currently in the 2nd year of a CS degree at Warwick'
+  text: 'My name is Joseph Keane, and I am a programmer in the UK, currently in the 2nd year of a CS degree at Warwick'
 widget3:
   title: "See my GitHub"
   url: 'https://github.com/Black-Photon'
-  text: "I'm constantly working on projects both for my degree and completely unrelated. You can find them all on my GitHub page."
+  text: 'I am constantly working on projects both for my degree and completely unrelated. You can find them all on my GitHub page.'
 #
 # Use the call for action to show a button on the frontpage
 #
