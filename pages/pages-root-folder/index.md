@@ -19,7 +19,7 @@ widget2:
 widget3:
   title: "See my GitHub"
   url: 'https://github.com/Black-Photon'
-  text: 'I\'m constantly working on projects both for my degree and completely unrelated. You can find them all on my GitHub page.'
+  text: "I'm constantly working on projects both for my degree and completely unrelated. You can find them all on my GitHub page."
 #
 # Use the call for action to show a button on the frontpage
 #
