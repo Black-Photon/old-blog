@@ -10,12 +10,12 @@ header:
 widget1:
   title: "Blog"
   url: 'https://black-photon.github.io/blog/'
-  image: freeze.png
+  image: rising.png
   text: 'Keep up-to-date with the latest blog posts'
 widget2:
   title: "Who am I?"
   url: 'https://black-photon.github.io/info/'
-  image: triangles.png
+  image: photon.jpg
   text: 'My name is Joseph Keane, and I am a programmer in the UK, currently in the 2nd year of a CS degree at Warwick'
 widget3:
   title: "See my GitHub"
