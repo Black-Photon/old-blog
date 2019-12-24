@@ -5,7 +5,7 @@ subheadline: "Who am I?"
 teaser: "My name is Joseph Keane, and I'm a programmer in the UK, currently in the 2nd year of a CS degree at Warwick"
 permalink: "/info/"
 header:
-    image_fullwidth: "tellas.jpg"
+    image_fullwidth: "tellas.png"
 ---
 
 ## Joseph... Who?
