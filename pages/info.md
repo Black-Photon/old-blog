@@ -1,61 +1,45 @@
 ---
 layout: page
 title: "About"
-subheadline: "Why another Jekyll Theme?"
-teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
+subheadline: "Who am I?"
+teaser: "My name is Joseph Keane, and I'm a programmer in the UK, currently in the 2nd year of a CS degree at Warwick"
 permalink: "/info/"
 header:
-    image_fullwidth: "header_drop.jpg"
+    image_fullwidth: "tellas.jpg"
 ---
-...and learn at the same time.
 
-*Feeling Responsive* is my first theme which I let into the world. It's built on work and knowledge of others. While I am still designing it, you read about whats behind this theme in the – *hopefully* – near future.
+## Joseph... Who?
 
+It all began a while back playing Minecraft, and wanted to add content to the game. By looking into modding, I encountered a universe of computers, and wanted a chance to program while creating things I could be proud of making.
 
-## Features
+Since then I have learned about all sorts of tools, languages, methods, paradigms and work to use them to bring ideas to life.
 
-* [Responsive Gallery][8], [Videos][9], [Grid][10], [Typography][11],...
-* 100% GitHub Pages friendly
-* Easy editable navigation, footer and social media links
-* Language Ready – just translate one file.
-* Lots of possibilities to customize it to your needs
-* Lots of different headers
-* Various post formats to let your content shine
-* Uses Jekyll 3.0
-* Multiple possibilities to use images in different ways
-* Fine typography
-* Play Video and Audio with [Mediaelement.js][12]
+## My Favourite Language
 
+I must say of all the ones I've used, the best I've seen is **Scala**
 
+Running on the JVM, it's cross-platform and can call any Java. This makes it flexible allowing you to focus on the program and take advantage of all of Java's libraries. In addition, Scala has nicer syntax and better Functional support compared to Java or Kotlin. This allows one to make succinct classes and functions that are clear and only as verbose as needed. The type flexibility of Scala also allows you to make use of generic and fixed types as needed.
 
-## I got inspired by...
+It's not as well known as many others and is nice and fun to write in.
 
-[Michael Rose][1] and his fabulous [themes for jekyll][2]. Authors of [A List Apart][4] and [Smashing Magazine][5] since 2002. [GitHub][6] and how they built such a habitat for cooperation worldwide. [Automattic][3] and how they built a fantastic community around WordPress. And many, many more...
+## My Favourite Food
 
-Please make *Feeling Responsive* yours and if you like it, please link back to my homebase <a href="http://phlow.de/">Phlow</a>. That would be awesome.
+For the longest time, I would say Pizza, but while you can get bad Pizza, you can't get bad Fajitas. Both can be incredible, so I'll have to call this one a draw.
 
-#### Since then, fork it!
+## My Favourite Thing To Do
 
-Yours sincerelly, [Moritz »mo.« Sauer][7]
+This is a hard question as there are many things that are enjoyable in different ways. Experiencing stories, programming, exploring and talking to fun people are all things I love doing and would have a hard time choosing just one. Though whatever it is, it is always more fun with other people involved.
 
+## My Ideal Job
 
- [1]: http://mademistakes.com/about/
- [2]: http://mademistakes.com/work/jekyll-themes/
- [3]: http://automattic.com/
- [4]: http://alistapart.com/
- [5]: http://www.smashingmagazine.com/
- [6]: https://github.com/
- [7]: http://sauer.io
- [8]: {{ site.url }}/design/gallery/
- [9]: {{ site.url }}/design/video/
- [10]: {{ site.url }}/design/grid/
- [11]: {{ site.url }}/design/typography/
- [12]: {{ site.url }}/design/mediaelement_js/
- [13]: #
- [14]: #
- [15]: #
- [16]: #
- [17]: #
- [18]: #
- [19]: #
- [20]: #
+I've done many types of programming, and in general, it's a fun pasttime! But I have learned a few things over my experince - I'm not interested in:
+ - Web-Dev
+ - Artificial Intelligence
+
+While both can be fun, the mindset I have likes logic and creating something one can enjoy seeing the output of. That said, I believe that my ideal job is a Graphics Programmer, as there are so many techniques behind it, I'll always be learning something new.
+
+## What OS Do I Prefer
+
+When it comes to programming, Linux is much nicer. The file paths originating from \ make them a lot simpler, and is easy to install and change libraries. In addition, the control over the system is nice, allowing bash scripts and specific file modifications to allow you to do what is needed.
+
+However Windows has more software support in general, and is made to *just work*, which can save time. If I could, I would like Linux with the same support for software Windows has, but for now, I keep a duel-boot on all my machines.
