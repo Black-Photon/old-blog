@@ -7,16 +7,16 @@ header:
     image_fullwidth: "tellas.png"
 ---
 
-## [Metro](/metro/)
+## [Metro](/projects/metro/)
 A Git-Based commandline tool intended to simplify the process of managing repositories. Metro intends to reduce the complexity of everyday tasks by reduction of commands, more helpful error messages and more convenient movement between working environments. This way Git can be nice to interact with your repos in the now as well in the future.
 
-## [Tellas](/tellas/)
+## [Tellas](/projects/tellas/)
 Tellas is a Minecraft clone created in purely OpenGL using C++ and Scala. It was made mostly as a OpenGL tutorial project, showcasing chunk management, world-generation, lighting and shadows and basic physics. While only including a subset of Minecrafts features, it contains the core of the game.
 
-## [Aedmun](/aedmun/)
+## [Aedmun](/projects/aedmun/)
 Made in LibGDX, Aedmun is an Android clicker game in which the player builds up a civilisation over time. They are confronted with the consideration of housing space, food, resources and inspiration, needing to find a balence between them to keep expanding and reach the next era of technology.
 
-## [jOSeph](/jOSeph/)
+## [jOSeph](/projects/jOSeph/)
 A tutorial project for Java using JavaFX with too many features, including:
  - Login system with username + password saved
  - Loading screen with progress bar
@@ -31,7 +31,8 @@ A tutorial project for Java using JavaFX with too many features, including:
  - Settings
  - Changelog
 
- ## [Other Projects](/other/)
+
+ ## [Other Projects](/projects/other/)
  I've also worked on various other smaller projects:
   - Self Fulfilling Idiocy: The Game
   - Strobe
