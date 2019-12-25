@@ -35,4 +35,4 @@ When a problem first occurs, it has much more power than later down the line. Tw
 
 The thing about all this is it happens when somebody is distracted from what they’re doing to a more immediate threat. And for everything, there will be a more immediate threat.
 
-Taken from https://qr.ae/TW8gO0
+Taken from [https://qr.ae/TW8gO0](https://qr.ae/TW8gO0)
