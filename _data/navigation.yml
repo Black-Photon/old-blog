@@ -11,15 +11,17 @@
   side: left
   dropdown:
   - title: "Metro"
-    url: "/metro/"
+    url: "/projects/metro/"
   # - title: "Spacial Freeze"
   #   url: "/spacial-freeze/"
   - title: "Tellas"
-    url: "/tellas/"
+    url: "/projects/tellas/"
   - title: "Aedmun"
-    url: "/aedmun/"
+    url: "/projects/aedmun/"
   - title: "jOSeph"
-    url: "/joseph/"
+    url: "/projects/jOSeph/"
+  - title: "Other"
+    url: "/projects/other/"
 
 # - title: Getting Started
 #   url: "/getting-started/"
