@@ -31,8 +31,7 @@ A tutorial project for Java using JavaFX with too many features, including:
  - Settings
  - Changelog
 
-
- ## [Other Projects](/projects/other/)
+## [Other Projects](/projects/other/)
  I've also worked on various other smaller projects:
   - Self Fulfilling Idiocy: The Game
   - Strobe
