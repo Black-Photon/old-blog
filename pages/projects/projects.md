@@ -7,7 +7,6 @@ header:
     image_fullwidth: "tellas.png"
 ---
 
-# Project List
 ## [Metro](/metro/)
 A Git-Based commandline tool intended to simplify the process of managing repositories. Metro intends to reduce the complexity of everyday tasks by reduction of commands, more helpful error messages and more convenient movement between working environments. This way Git can be nice to interact with your repos in the now as well in the future.
 
