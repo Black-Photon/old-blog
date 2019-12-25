@@ -8,5 +8,4 @@ header:
     image_fullwidth: "metro-head.png"
 ---
 
-## Metro!
-This is a test!
+Yet to be added

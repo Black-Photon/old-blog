@@ -1,12 +1,11 @@
 ---
 layout: page
-title: "Metro"
-subheadline: "A Git Commandline Repository Manager"
-teaser: "When we began on Metro, the idea was simple. Git is like C - Incredibly powerful, but you need to know your way around it. For anything but the most basic things, you need to look it up."
+title: "Aedmun"
+subheadline: "An Android Clicker"
+teaser: "A clicker game is a quintessential mobile genre, and aedmun contains the essence of such a game in a civilisation building theme."
 permalink: "/projects/aedmun/"
 header:
-    image_fullwidth: "metro-head.png"
+    image_fullwidth: "tellas.png"
 ---
 
-## Metro!
-This is a test!
+Yet to be added

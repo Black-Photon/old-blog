@@ -1,12 +1,11 @@
 ---
 layout: page
-title: "Metro"
-subheadline: "A Git Commandline Repository Manager"
-teaser: "When we began on Metro, the idea was simple. Git is like C - Incredibly powerful, but you need to know your way around it. For anything but the most basic things, you need to look it up."
+title: "Tellas"
+subheadline: "A Minecraft Clone"
+teaser: "Minecraft is a complex yet simple game. It removes all the complexity and awkwardness of traditional models getting to the centre of the game immediately. Thus it's the perfect application for basic OpenGL."
 permalink: "/projects/tellas/"
 header:
-    image_fullwidth: "metro-head.png"
+    image_fullwidth: "tellas.png"
 ---
 
-## Metro!
-This is a test!
+Yet to be added

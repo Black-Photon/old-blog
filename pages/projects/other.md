@@ -1,12 +1,11 @@
 ---
 layout: page
 title: "Other"
-subheadline: "A Git Commandline Repository Manager"
-teaser: "When we began on Metro, the idea was simple. Git is like C - Incredibly powerful, but you need to know your way around it. For anything but the most basic things, you need to look it up."
+subheadline: "Other Projects"
+teaser: "In the time I've been programming, there are many projects that I took a smaller role in, or were never finished. Here's a few of them."
 permalink: "/projects/other/"
 header:
-    image_fullwidth: "metro-head.png"
+    image_fullwidth: "tellas.png"
 ---
 
-## Metro!
-This is a test!
+Yet to be added
