@@ -8,4 +8,4 @@ header:
     image_fullwidth: "jni.png"
 ---
 
-You can contact me through the link here: https://blackphoton.wufoo.com/forms/contact-me
+You can contact me through the link [here](https://blackphoton.wufoo.com/forms/contact-me)
