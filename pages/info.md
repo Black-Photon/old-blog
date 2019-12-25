@@ -42,4 +42,4 @@ While both can be fun, the mindset I have likes logic and creating something one
 
 When it comes to programming, Linux is much nicer. The file paths originating from \ make them a lot simpler, and is easy to install and change libraries. In addition, the control over the system is nice, allowing bash scripts and specific file modifications to allow you to do what is needed.
 
-However Windows has more software support in general, and is made to *just work*, which can save time. If I could, I would like Linux with the same support for software Windows has, but for now, I keep a duel-boot on all my machines.
+However Windows has more software support in general, and is made to *just work*, which can save time. If I could, I would like Linux with the same support for software Windows has, but for now, I keep a dual-boot on all my machines.

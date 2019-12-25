@@ -6,6 +6,21 @@
   url: "/info/"
   side: left
 
+- title: Projects
+  url: "/projects/"
+  side: left
+  dropdown:
+  - title: "Metro"
+    url: "/metro/"
+  # - title: "Spacial Freeze"
+  #   url: "/spacial-freeze/"
+  - title: "Tellas"
+    url: "/tellas/"
+  - title: "Aedmun"
+    url: "/aedmun/"
+  - title: "jOSeph"
+    url: "/joseph/"
+
 # - title: Getting Started
 #   url: "/getting-started/"
 #   side: left
