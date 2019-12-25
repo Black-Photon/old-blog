@@ -43,3 +43,5 @@ permalink: /index.html
 #
 homepage: true
 ---
+
+<meta name="google-site-verification" content="4bmoeFDCAJXmvlDQX0mguKHaGatb-4nBfNy_4kIlLw0" />
