@@ -1,12 +1,12 @@
 ---
 permalink: /search/
 layout: page
-title: "I'm afraid Google isn't up with the site yet!"
+title: "Search"
 sitemap: false
 header:
     image_fullwidth: "rising.png"
 ---
 
-### But it should be working soon!
+Looking for a specific page? Find it here!
 
 {% include _google_search.html %}
