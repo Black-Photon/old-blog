@@ -32,7 +32,7 @@ This is a hard question as there are many things that are enjoyable in different
 
 ## My Ideal Job
 
-I've done many types of programming, and in general, it's a fun pasttime! But I have learned a few things over my experince - I'm not interested in:
+I've done many types of programming, and in general, it's a fun pasttime! But I have learned a few things over my experience - I'm not interested in:
  - Web-Dev
  - Artificial Intelligence
 
