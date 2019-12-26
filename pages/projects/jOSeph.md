@@ -8,4 +8,4 @@ header:
     image_fullwidth: "tellas.png"
 ---
 
-Yet to be added
+As my first project, jOSeph was really a way to explore what was possible via programming. I ended up working on it for 2 years or so, until eventually I understood how to make things properly.
