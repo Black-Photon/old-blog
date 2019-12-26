@@ -25,7 +25,7 @@ It started as a console application which expanded to have more features as I le
  - Changelog of what's new in each version.
 
 <center>
-   <img src="https://black-photon.github.io/images/jOSeph.jpg" title="A screenshot of the final version of Aedmun" width="300"/>
+   <img src="https://black-photon.github.io/images/jOSeph.png" title="A screenshot of the final version of Aedmun" width="400"/>
 </center>
 
 In the end, the application made use of Java, JavaFX and CSS to finish, and marked the end of my learning period. While none of it was too impressive, it was useful to get used to programming, and gave me exposure to many elements in programming. You can find the source code and final product on my GitHub [here](https://github.com/Black-Photon/jOSeph)
