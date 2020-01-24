@@ -32,11 +32,7 @@ This is a hard question as there are many things that are enjoyable in different
 
 ## My Ideal Job
 
-I've done many types of programming, and in general, it's a fun pasttime! But I have learned a few things over my experience - I'm not interested in:
- - Web-Dev
- - Artificial Intelligence
-
-While both can be fun, the mindset I have likes logic and creating something one can enjoy seeing the output of. That said, I believe that my ideal job is a Graphics Programmer, as there are so many techniques behind it, I'll always be learning something new.
+I've done many types of programming, and in general, it's a fun pasttime! But I have learned a few things over my experience - I have a particular interest in Graphics, Networks and desktop applications, as well as fields where I can constantly learn new techniques and methods.
 
 ## What OS Do I Prefer
 
