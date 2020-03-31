@@ -10,7 +10,7 @@ header:
 widget1:
   title: "Blog"
   url: 'https://black-photon.github.io/blog/'
-  image: rising.png
+  image: Wibbly-Avatar.png
   text: 'Keep up-to-date with the latest blog posts'
 widget2:
   title: "Who am I?"
@@ -20,7 +20,7 @@ widget2:
 widget3:
   title: "See my GitHub"
   url: 'https://github.com/Black-Photon'
-  image: avatar.png
+  image: github.png
   text: 'I am constantly working on projects both for my degree and completely unrelated. You can find them all on my GitHub page.'
 #
 # Use the call for action to show a button on the frontpage
