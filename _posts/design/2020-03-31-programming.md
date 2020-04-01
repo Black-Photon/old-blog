@@ -29,4 +29,4 @@ Generally, learning a new programming language takes no time at all. But what's 
 
 Thus, the plan is to release a specification of a problem to solve and what language I plan to use at the start of the month. At the end of the month I'll show off my solution as well as how it works and what I've learned. If you have a language suggestion or want to simply follow along, feel free!
 
-I'll be starting off tomorrow with a language to be decided.
+You can find the first challenge over [here](/language-of-the-month/04-20/)
