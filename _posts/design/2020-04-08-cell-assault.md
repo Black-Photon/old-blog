@@ -4,7 +4,7 @@ subheadline: "Programming Projects"
 title: "Cell Assault"
 teaser: "A game about battling infection in the body"
 header:
-    image_fullwidth: "cells.png"
+    image_fullwidth: "cells-header.png"
     caption: Image from Joseph
 image:
     thumb:  cells-thumb.png
