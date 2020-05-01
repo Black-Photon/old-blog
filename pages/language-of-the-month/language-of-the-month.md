@@ -12,3 +12,6 @@ header:
 ## 2020
 ### [April - Ada](/language-of-the-month/04-20/)
 First defined in the early 1980's, Ada was ahead of its time and created a secure language still used today for embedded systems and teaching programming.
+
+### [May - Lisp](/language-of-the-month/05-20/)
+From its creation in the 1950s, Lisp stood out compared to other languages with its unique usage of Lambda Calculus, and has been the go-to language for many programmers since.

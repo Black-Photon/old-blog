@@ -36,6 +36,8 @@
   dropdown:
   - title: "April"
     url: "/language-of-the-month/04-20/"
+  - title: "May"
+    url: "/language-of-the-month/05-20/"
 
 - title: "Search"
   url: "/search/"
