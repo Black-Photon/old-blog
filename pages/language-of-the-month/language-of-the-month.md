@@ -15,3 +15,6 @@ First defined in the early 1980's, Ada was ahead of its time and created a secur
 
 ### [May - Lisp](/language-of-the-month/05-20/)
 From its creation in the 1950s, Lisp stood out compared to other languages with its unique usage of Lambda Calculus, and has been the go-to language for many programmers since.
+
+### [June - Rust](/language-of-the-month/06-20/)
+A new language, Rust makes use of both low level and high level concepts, merging them together to improve safety as much as possible. Could this be the new C++?
