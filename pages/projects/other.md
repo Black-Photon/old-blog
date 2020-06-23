@@ -39,3 +39,6 @@ You can find our submission [here](https://devpost.com/software/git-assistant).
 During the 2020 Coronavirus Pandemic, Warwick Game Design did a long-distance Game Jam, in which I decided to join in. I created a game where you control the number of cells in your body to fight of infection, and ended up with a game where the bugs and getting to the limits of the game was more fun than the intended gameplay. You can find and download it over [here](https://itch.io/jam/wgd-2019-20-games/rate/604650), and wrote a blog post on it over [here](https://black-photon.github.io/programming/cell-assault/)
 
 ![alt text](https://black-photon.github.io/images/cells-gameplay.png "Gameplay Example")
+
+## Hacker Hell
+The second Game Jam game of the pandemic, I worked alongside a friend also called Joseph to create a game with the theme Connections, where your comuter has been compromised by hackers, and you need to put up the firewalls to stop them. You can find and download it over [here](https://itch.io/jam/wgd-2019-20-games/rate/677595), and wrote a blog post on it over [here](https://black-photon.github.io/programming/hacker-hell/)
