@@ -18,3 +18,6 @@ From its creation in the 1950s, Lisp stood out compared to other languages with 
 
 ### [June - Rust](/language-of-the-month/06-20/)
 A new language, Rust makes use of both low level and high level concepts, merging them together to improve safety as much as possible. Could this be the new C++?
+
+### [July - Perl](/language-of-the-month/07-20/)
+Why use `bash` or `powershell` for writing scripts in the modern day? Perl gives a much nicer alternative like python for writing quick solutions to problems.
