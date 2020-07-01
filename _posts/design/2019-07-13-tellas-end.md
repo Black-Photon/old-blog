@@ -2,7 +2,7 @@
 layout: page
 subheadline: "Programming Projects"
 title: "Tellas: The Conclusion"
-teaser: "A record of personal projects in programming I've worked on, and what I've learned from the experience"
+teaser: "The final report on Tellas and the features added and considered since the initial post."
 header:
     image_fullwidth: "tellas.png"
     caption: Image by Joseph
