@@ -34,13 +34,13 @@
   url: "/language-of-the-month/"
   side: left
   dropdown:
-  - title: "April"
+  - title: "Ada"
     url: "/language-of-the-month/04-20/"
-  - title: "May"
+  - title: "Lisp"
     url: "/language-of-the-month/05-20/"
-  - title: "June"
+  - title: "Rust"
     url: "/language-of-the-month/06-20/"
-  - title: "July"
+  - title: "Perl"
     url: "/language-of-the-month/07-20/"
 
 - title: "Search"
