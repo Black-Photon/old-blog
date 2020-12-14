@@ -10,7 +10,7 @@ image:
     thumb:  UK-Flag.jpg
     homepage: UK-Flag.jpg
 categories:
-    - programming
+    - politics
 comments: true
 ---
 
