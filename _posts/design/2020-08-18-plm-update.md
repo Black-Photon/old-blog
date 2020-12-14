@@ -2,6 +2,7 @@
 layout: page
 subheadline: "Programming Projects"
 title: "Programming Language of the Moment Update"
+teaser: "What's been happening with PLM recently?"
 header:
     image_fullwidth: "jni.png"
     caption: Image by Joseph
