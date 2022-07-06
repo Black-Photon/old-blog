@@ -15,7 +15,7 @@ widget1:
 widget2:
   title: "Who am I?"
   url: 'https://black-photon.github.io/info/'
-  image: photon.jpg
+  image: photo.png
   text: 'My name is Joseph Keane, and I am a programmer in the UK, currently in the 2nd year of a CS degree at Warwick'
 widget3:
   title: "See my GitHub"
