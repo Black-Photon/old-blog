@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 subheadline: "Who am I?"
-teaser: "My name is Joseph Keane, and I'm a programmer in the UK, currently in the 2nd year of a CS degree at Warwick"
+teaser: "My name is Joseph Keane, and I'm a programmer in the UK, about to finish a CS degree at Warwick"
 permalink: "/info/"
 header:
     image_fullwidth: "tellas.png"
@@ -10,29 +10,27 @@ header:
 
 ## Joseph... Who?
 
-It all began a while back playing Minecraft, and wanted to add content to the game. By looking into modding, I encountered a universe of computers, and wanted a chance to program while creating things I could be proud of making.
-
-Since then I have learned about all sorts of tools, languages, methods, paradigms and work to use them to bring ideas to life.
+I've always been interested in how things work, and computers are among the most complex machines of the 21st century. Uncovering this mystery has been my goal that has led to numerous projects, a degree at the University of Warwick, and most recently, into a job in GPU's at Arm.
 
 ## My Favourite Language
 
-I must say of all the ones I've used, the best I've seen is **Scala**
+Right now my favourite language would have to be C++
 
-Running on the JVM, it's cross-platform and can call any Java. This makes it flexible allowing you to focus on the program and take advantage of all of Java's libraries. In addition, Scala has nicer syntax and better Functional support compared to Java or Kotlin. This allows one to make succinct classes and functions that are clear and only as verbose as needed. The type flexibility of Scala also allows you to make use of generic and fixed types as needed.
+It's messy, and takes time to understand the right way of doing things; but at the same time, it gives you a lot of control as a programmer to do what you want, while providing the infrastructure to keep your code clean and readable. Beyond this, it also has support for a multitude of libraries, and as a low-level language, some of the most exciting projects are coded in C++.
 
-It's not as well known as many others and is nice and fun to write in.
+That said, I wouldn't praise the build system...
 
-## My Favourite Food
+## My Hobbies
 
-For the longest time, I would say Pizza, but while you can get bad Pizza, you can't get bad Fajitas. Both can be incredible, so I'll have to call this one a draw.
+Right now my main hobbies include programming, playing guitar and learning Japanese. But I also like reading, watching TV shows and playing games sometimes.
 
-## My Favourite Thing To Do
+## My Ideal Holiday
 
-This is a hard question as there are many things that are enjoyable in different ways. Experiencing stories, programming, exploring and talking to fun people are all things I love doing and would have a hard time choosing just one. Though whatever it is, it is always more fun with other people involved.
+I want to visit Japan! It seems like a really interesting country, and it'd be silly to learn Japanese then never travel there. It's expensive and I'd need to stay a while to be worth it, but it'll nevertheless be a unique experience.
 
 ## My Ideal Job
 
-I've done many types of programming, and in general, it's a fun pasttime! But I have learned a few things over my experience - I have a particular interest in Graphics, Networks and desktop applications, as well as fields where I can constantly learn new techniques and methods.
+My ideal job is one in which I am always learning. The goal of my interest in computers was always to find out more about how they work. Anything that works to that end will be worthwhile. After all, there's so much interesting stuff in the world and in so much detail. I'd love to find out just a little more about it. In particular my interest lies in low level stuff, as to me, it's more interesting a sheds a light more on how computers fundementally work. Graphics, OS's, compilers and networks are examples on my list to learn more about!
 
 ## What OS Do I Prefer
 
